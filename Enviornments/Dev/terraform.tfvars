@@ -9,10 +9,6 @@ ParentRG = {
     location = "westindia"
   }
 
-  "rg3" = {
-    name     = "MyMap3"
-    location = "west us"
-  }
 }
 
 ParentST = {
