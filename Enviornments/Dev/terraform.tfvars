@@ -9,7 +9,7 @@ ParentRG = {
     location = "westindia"
   }
 
-    "rg3" = {
+    "rg5" = {
     name     = "MyMap3"
     location = "westindia"
   }
@@ -25,4 +25,5 @@ ParentST = {
     account_replication_type = "GRS"
     dependson = "ParentRG"
   }
+
 }
